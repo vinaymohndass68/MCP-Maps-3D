@@ -84,7 +84,7 @@ export enum ChatRole {
 // Ensure this key is configured with access to the "Maps JavaScript API",
 // "Geocoding API", and the "Directions API".
 const USER_PROVIDED_GOOGLE_MAPS_API_KEY: string =
-  'AIzaSyAJPTwj4S8isr4b-3NtqVSxk450IAS1lOQ'; // <-- REPLACE THIS WITH YOUR ACTUAL API KEY
+  ''; // <-- REPLACE THIS WITH YOUR ACTUAL API KEY
 
 const EXAMPLE_PROMPTS = [
   "Show me directions from Tokyo Tower to Shibuya Crossing.",
